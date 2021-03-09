@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.zadanie3">
+  <component name="RunManager" selected="Application.piec">
     <configuration name="Zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="second_week.tabele.Zadanie4" />
       <module name="ZSE_Praktyki" />
@@ -51,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanie1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.tablice2.zadanie1" />
+    <configuration name="piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.piec.piec" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.tablice2.*" />
+          <option name="PATTERN" value="second_week.piec.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanie3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.tabele.zadanie3" />
+    <configuration name="zadanie1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.tablice2.zadanie1" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.tabele.*" />
+          <option name="PATTERN" value="second_week.tablice2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.piec" />
         <item itemvalue="Application.zadanie3" />
         <item itemvalue="Application.zadanie1 (1)" />
         <item itemvalue="Application.zadanie5 (1)" />
         <item itemvalue="Application.Zadanie4" />
-        <item itemvalue="Application.zadanie3 (1)" />
       </list>
     </recent_temporary>
   </component>
