@@ -38,13 +38,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.piec">
-    <configuration name="Zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.tabele.Zadanie4" />
+  <component name="RunManager" selected="Application.Prodzekt">
+    <configuration name="Prodzekt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prodżekt.Prodzekt" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.tabele.*" />
+          <option name="PATTERN" value="Prodżekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prodzekt" />
         <item itemvalue="Application.piec" />
         <item itemvalue="Application.zadanie3" />
         <item itemvalue="Application.zadanie1 (1)" />
         <item itemvalue="Application.zadanie5 (1)" />
-        <item itemvalue="Application.Zadanie4" />
       </list>
     </recent_temporary>
   </component>
